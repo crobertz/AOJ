@@ -1,3 +1,6 @@
+# ALDS_1_1B
+# GCD
+
 x, y = sorted([int(n) for n in input().split()])
 
 # x < y
