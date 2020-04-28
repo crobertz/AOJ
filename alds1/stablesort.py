@@ -1,3 +1,6 @@
+# ALDS1_2_C
+# Stable sort
+
 import copy
 
 def BubbleSort(C, N):

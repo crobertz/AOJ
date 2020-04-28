@@ -1,3 +1,6 @@
+# ALDS1_2_A
+# Bubble sort
+
 N = int(input())
 A = [int(n) for n in input().split()]
 

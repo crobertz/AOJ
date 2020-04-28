@@ -1,3 +1,6 @@
+# ALDS1_1_D
+# Maximum profit
+
 N = int(input())
 
 maxv = -float('inf')

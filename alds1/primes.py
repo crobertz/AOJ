@@ -1,3 +1,6 @@
+# ALDS1_1_C
+# Prime numbers
+
 import math
 
 n = int(input())
