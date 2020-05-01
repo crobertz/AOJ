@@ -1,4 +1,5 @@
 # ALDS1_3_A
+# Reverse polish notation
 
 in_list = input().split()[::-1]
 

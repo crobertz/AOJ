@@ -1,3 +1,6 @@
+# ALDS1_3_C
+# Queue
+
 import sys
 from collections import deque
 
